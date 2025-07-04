@@ -1,0 +1,3 @@
+#
+# Read and publish energy meters (runs every minute)
+ *  *  *   *   *     /home/pi/scripts/publishenergy.sh >>/home/pi/logs-energy/publishenergy.log

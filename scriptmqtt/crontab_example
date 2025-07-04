@@ -1,0 +1,8 @@
+#
+# Run FIFO based MQTT publisher (to publish temp, bolier, energy data to MQTT
+@reboot /home/pi/scripts/runfifo2mqttpub.sh
+#
+#
+# Log all MQTT activities
+@reboot /home/pi/scripts/runmqttsuball.sh
+
